@@ -5,3 +5,5 @@ fastapi-users[sqlalchemy]
 python-dotenv
 sqlalchemy
 fastapi-cache2[redis]
+celery
+flower
